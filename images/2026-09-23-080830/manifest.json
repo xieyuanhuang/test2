@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-09-23T08:08:30.398Z",
+  "source": "PMC localhost prototype",
+  "status": "全部",
+  "dates": [
+    "2026-09-23",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-26"
+  ],
+  "rowCount": 118,
+  "images": [
+    {
+      "order": 1,
+      "name": "装配部1线-排程",
+      "path": "images/2026-09-23-080830/01-assembly-line-1.png",
+      "width": 2000,
+      "height": 2318,
+      "bytes": 863894,
+      "sha256": "92666ff25d9f9656a9a8a3ce55f5934a628e79a5ba0e0a435bd48d068955d507"
+    },
+    {
+      "order": 2,
+      "name": "装配部2线-排程",
+      "path": "images/2026-09-23-080830/02-assembly-line-2.png",
+      "width": 2000,
+      "height": 3878,
+      "bytes": 1465389,
+      "sha256": "455aa19fc65a00d94b193267a8db2485f6550e35e7b357416df7a214ec138433"
+    },
+    {
+      "order": 3,
+      "name": "装配部3线-排程",
+      "path": "images/2026-09-23-080830/03-assembly-line-3.png",
+      "width": 2000,
+      "height": 3526,
+      "bytes": 1293129,
+      "sha256": "7db9610f7bdf8e9be06d50a2a4b2d2f6664a7c3ae922dd5135eb4db5f3ad0403"
+    },
+    {
+      "order": 4,
+      "name": "装配部4线-排程",
+      "path": "images/2026-09-23-080830/04-assembly-line-4.png",
+      "width": 2000,
+      "height": 3806,
+      "bytes": 1492919,
+      "sha256": "b690cb1949034d306969e766eeaf1d82bbc9763d79e93004b873fbab6e48124e"
+    },
+    {
+      "order": 5,
+      "name": "装配部5线-排程",
+      "path": "images/2026-09-23-080830/05-assembly-line-5.png",
+      "width": 2000,
+      "height": 3134,
+      "bytes": 1200342,
+      "sha256": "06d3e23714f9fdac9b65ae2470047aab562d25d382559b99ddf759d9911a2b28"
+    },
+    {
+      "order": 6,
+      "name": "清尾达成",
+      "path": "images/2026-09-23-080830/06-achievement.png",
+      "width": 3772,
+      "height": 1072,
+      "bytes": 217970,
+      "sha256": "6b77f9d22521f74b52d0a64c9c7be1c14f73e7e25ac1e4ffc3f084843c9f2a9c"
+    }
+  ]
+}
